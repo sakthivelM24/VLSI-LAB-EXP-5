@@ -1,13 +1,14 @@
 # VLSI-LAB-EXP-5
 SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-AIM: To simulate and synthesis finite state machine using Xilinx ISE.
+# AIM: 
+To simulate and synthesis finite state machine using Xilinx ISE.
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
 
 Vivado™ ML 2023.2
 
-PROCEDURE: 
+# PROCEDURE: 
 
 1.Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -120,7 +121,7 @@ endmodule
 
 ~~~
 
-OUTPUT:
+# OUTPUT:
 
 SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/fe95cc6e-84da-4c00-84a5-5e87087ee392)
 
@@ -128,6 +129,6 @@ SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/16051788
 ELABRATED DIAGRAM:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-5/assets/160517887/22a3d891-75b8-481b-b67a-a58736215bf6)
 
 
-RESULT:
+# RESULT:
 
 Simulation And Synthesis Finite State Machine is Successfully Verified using Vivado Software.
